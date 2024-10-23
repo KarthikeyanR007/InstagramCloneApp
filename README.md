@@ -8,10 +8,7 @@ This is an Instagram clone app built with React Native. The app includes core fe
 - **Stories**: Users can upload and view stories that disappear after 24 hours.
 - **Posts**: Users can create, like, comment on, and share posts.
 - **User Profiles**: Each user has a customizable profile.
-- **Notifications**: Users receive notifications for messages, likes, and comments.
-- **Search**: Users can search for other users and content.
-- **Explore Page**: Discover new content and users.
-- **Photo Filters**: Basic photo editing features to enhance posts.
+
 
 ## Tech Stack
 - **Frontend**: React Native
